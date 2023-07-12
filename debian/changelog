@@ -1,5 +1,12 @@
-template-repository (1.0-1) unstable; urgency=medium
+fonts-lemonada (4.004+git20190612-1) unstable; urgency=medium
 
-  * Initial release
+  * Add Vcs fields.
+  * Bump standards version to 4.4.1.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Gürkan Myczko <gurkan@phys.ethz.ch>  Fri, 29 Nov 2019 14:10:32 +0100
+
+fonts-lemonada (0+git20190612-1) unstable; urgency=medium
+
+  * Initial release. (Closes: #933399)
+
+ -- Gürkan Myczko <gurkan@phys.ethz.ch>  Fri, 12 Jul 2019 16:30:42 +0200
